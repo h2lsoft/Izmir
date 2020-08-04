@@ -49,7 +49,7 @@ Izmir is a mini CSS library allowing you to quickly create beautiful image hover
       <h3>
         Some sample text
       </h3>
-    </div>
+    </figcaption>
 </figure>
 ```
 
